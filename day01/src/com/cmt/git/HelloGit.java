@@ -7,4 +7,10 @@ public class HelloGit {
         System.out.println("hello git!!!");
         System.out.println("hello git!!!");
     }
+
+    public void fn1(){
+        System.out.println("寒素1");
+        System.out.println("寒素1");
+        System.out.println("寒素1");
+    }
 }
