@@ -13,4 +13,11 @@ public class HelloGit {
         System.out.println("寒素1");
         System.out.println("寒素1");
     }
+
+    public void fn2(){
+        System.out.println("寒素2");
+        System.out.println("寒素2");
+        System.out.println("寒素2");
+        System.out.println("寒素2");
+    }
 }
